@@ -5,9 +5,9 @@
 </template>
           
 <script>
-    export default {
-        name: 'baner1'   
-    }
+export default {
+    name: 'baner1'
+}
 </script>
 
 <style scoped>

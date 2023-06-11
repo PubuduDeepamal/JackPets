@@ -30,22 +30,29 @@
 </template>
       
 <script>
-
-import pethealth from '../assets/json/pethealth.json'
-
+    import axios from 'axios';
     export default {
-
-        data() {
-            return {
-            health: pethealth,
-            };
-        },   
-    };
-
+    data() {
+      return {
+        health: [],
+      };
+    },
+    mounted() {
+      this.fetchProducts();
+    },
+    methods: {
+      async fetchProducts() {
+        try {
+          const response = await axios.get('https://json-server-1b6x.onrender.com/advicess');
+          this.health = response.data;
+        } catch (error) {
+          console.error(error);
+        }
+      },
+    },
+    }
 </script>
-  
-      
-    
+
 <style>
 
 .faqsection{
