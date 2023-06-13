@@ -19,8 +19,22 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.2.3",
     "@vitejs/plugin-vue-jsx": "^3.0.1",
+    "prettier": "^2.8.8",
     "sass": "^1.62.1",
     "sass-loader": "^13.3.0",
     "vite": "^4.3.5"
-  }
+  },
+  "description": "This template should help get you started developing with Vue 3 in Vite.",
+  "main": "tailwind.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PubuduDeepamal/JackPets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PubuduDeepamal/JackPets/issues"
+  },
+  "homepage": "https://github.com/PubuduDeepamal/JackPets#readme"
 }
