@@ -1,0 +1,35 @@
+
+[
+    {
+      "id": 1,
+      "name": "Labdoar retriver Puppies",
+      "href": "#",
+      "imageSrc": "https://petshop.lk/storage/files/lk/318/thumb-320x240-e34eb194ccce6fba248bae42cf4a444b.jpg",
+      "imageAlt": "Labdoar retriver Puppies",
+      "offer": ""
+    },
+    {
+      "id": 2,
+      "name": "Persian kitten",
+      "href": "#",
+      "imageSrc": "https://petshop.lk/storage/files/lk/319/thumb-320x240-5f0ccad44f469dfdc44403722a820b3a.jpg",
+      "imageAlt": "Special Cat",
+      "offer": ""
+    },
+    {
+      "id": 3,
+      "name": "Rottweiler pupies",
+      "href": "#",
+      "imageSrc": "https://petshop.lk/storage/files/lk/325/thumb-320x240-25af66f50461d3bb9682f73e0e554aec.jpg",
+      "imageAlt": "Rottweiler",
+      "offer": ""
+    },
+    {
+      "id": 4,
+      "name": "Golden retrieve puppies",
+      "href": "#",
+      "imageSrc": "https://petshop.lk/storage/files/lk/324/thumb-320x240-c3fdf46ebd8f43222f52159b165f17a3.jpg",
+      "imageAlt": "CGolden retrieve puppies",
+      "offer": ""
+    }
+  ]

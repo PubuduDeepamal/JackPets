@@ -8,6 +8,7 @@
   import offers from '@/components/offers.vue'
   import footersection from '@/components/footersection.vue'
   import Donate from '@/components/Donate.vue'
+  import rescuedogcentre from '@/components/rescuedogcentre.vue'
 </script>
 
 <template>
@@ -20,8 +21,8 @@
     <HomeProduct/>
     <offers/>
     <Donate/>
-    <footersection/>
-    
+    <rescuedogcentre/>
+    <footersection/>  
   </main>
 </template>
 
