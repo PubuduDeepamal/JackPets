@@ -65,14 +65,6 @@ export default {
 <style src="../assets/style/style.css" scoped></style>
 
 <style scoped>
-
-@media (min-width: 1200px)
-{
-    .p-xl-5 {
-        padding: 2rem !important;
-    }
-}
-
 .py-6{
     padding-top: 1rem;
     padding-bottom: 3rem;
@@ -134,6 +126,14 @@ a {
     color: #050606;
     text-decoration: unset;
 }
+
+@media (min-width: 1200px)
+{
+    .p-xl-5 {
+        padding: 2rem !important;
+    }
+}
+
 
 </style>
   

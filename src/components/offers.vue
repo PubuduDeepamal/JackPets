@@ -15,8 +15,8 @@
             </div>
   
                 <p class="prdoutdetailseliment"> <b>{{ offers.name }} {{ offers.offer }}</b></p>
-                <p class="prdoutdetailseliment">Old Price :  {{ offers.price }}</p>
-                <p class="prdoutdetailseliment">New Price :<b>{{ offers.newprice }}</b></p>
+                <p class="prdoutdetailseliment" id="textuderline">{{ offers.price }}</p>
+                <p class="prdoutdetailseliment"><b>{{ offers.newprice }}</b></p>
                 <button class="btn btn-primary w-100 py-1 px-4 rounded1 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" id="BuyButton">
                 <b> Buy Now</b>
                 </button>
@@ -99,5 +99,10 @@
   
   .rounded1{
       background: white;
+  }
+
+  #textuderline{
+    text-decoration: line-through;
+    color: red;
   }
   </style>
