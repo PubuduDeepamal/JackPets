@@ -192,7 +192,8 @@ margin-top: 30px;
     color: #21201e;
     margin-top: 30px;
     margin-bottom: 15px;
-	font-size: 48px;
 	text-align: center;
+    font-size: 45.8px;
+    font-weight: bold;
 }
 </style>

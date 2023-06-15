@@ -3,7 +3,7 @@
     <div id="scolour">
     <br>
     <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-              <h2 id="producttittle" style="font-size: 50px;"> Product Offers</h2>
+              <h2 id="producttittle" style="font-size: 45.8px; font-weight: bold;"> Product Offers</h2>
     </div>
   
     <div class="container mx-auto max-w-2xl md:py-12 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
@@ -93,8 +93,9 @@
   }
   
   .producttittle{
-    font-size: 50px;
+    font-size: 45.8px;
     margin-top: 0px;
+    font-weight: bold;
   }
   
   .rounded1{

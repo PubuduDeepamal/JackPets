@@ -58,6 +58,7 @@
 .faqsection{
   text-align: center;
   padding-bottom: 30px;
+  font-weight: bold;
 }
 
 .faq {

@@ -14,7 +14,7 @@
                 <li><RouterLink to="/Product">Product</RouterLink></li>
                 <li><RouterLink to="/Loging">Login</RouterLink></li>
             </ul>
-            <h1 class="logo">JackPets </h1>
+            <h1 class="logo"><b>JackPets</b></h1>
         </div>
     </nav>
 </template>

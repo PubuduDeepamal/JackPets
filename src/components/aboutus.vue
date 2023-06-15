@@ -10,9 +10,9 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-5 mb-4"><b>Welcome to JackPets!</b></h1>
+                    <h1 class="display-5 mb-4" id="producttittle1">Welcome to JackPets!</h1>
                     <p class="mb-4">At JackPets, we are passionate about connecting families with their perfect pets and providing exceptional care for our furry friends. We understand the joy and companionship that pets bring into our lives, and we strive to create a warm and inviting environment where both pets and pet owners feel valued and supported.</p>
-                    <h3 class="display-5 mb-4"> <b>Our Commitment to Quality:</b></h3>
+                    <h3 class="display-5 mb-4" id="producttittle1">Our Commitment to Quality</h3>
                     <p class="me-3">Healthy and Happy Pets: We prioritize the health and well-being of all our animals. Our pets are sourced from reputable breeders, rescue organizations, and shelters to ensure that they receive the best care from the beginning. Each pet undergoes thorough health checks and vaccinations to ensure they are in optimal condition.</p>
                     <p class="me-3">Premium Products and Services: In addition to pets, we offer a comprehensive selection of high-quality pet supplies, including food, toys, bedding, grooming essentials, and more. We carefully curate our inventory to ensure that our customers have access to the best products on the market. We also provide additional services like grooming, training, and veterinary referrals to help you meet your pet's specific needs.</p>
                 </div>
@@ -25,7 +25,7 @@
     <div class="container-fluid bg-light bg-icon py-6">
         <div class="container">
             <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <h1 class="display-5 mb-3"><b>Why choose us</b></h1>
+                <h1 class="display-5 mb-3" id="producttittle">Why choose us</h1>
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -125,6 +125,19 @@ h1{
 a {
     color: #050606;
     text-decoration: unset;
+}
+
+#producttittle{
+    color: #21201e;
+    margin-top: -26px;
+    font-size: 45.8px;
+    font-weight: bold;
+}
+
+#producttittle1{
+    color: #21201e;
+    font-size: 45.8px;
+    font-weight: bold;
 }
 
 @media (min-width: 1200px)

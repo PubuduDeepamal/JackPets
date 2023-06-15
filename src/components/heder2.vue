@@ -10,7 +10,7 @@
             <ul class="menu-items">
                 <li><a @click="showLogoutPopup"><RouterLink to="/Loging">Logout</RouterLink></a></li>
             </ul>
-            <h1 class="logo">JackPets</h1>
+            <h1 class="logo"><b>JackPets</b></h1>
         </div>
     </nav>
 </template>

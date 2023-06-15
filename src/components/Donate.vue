@@ -25,7 +25,7 @@
 
 <style scoped>
 #Donationtittle{
-    font-size: 40px;
+    font-size: 45.8px;
     margin-top: 0px;
 }
 

@@ -2,7 +2,7 @@
   <br><br><br><br>
 
   <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-            <h2 id="producttittle" style="font-size: 50px;"><b>Pet Products</b></h2>
+            <h2 id="producttittle" style="font-size: 45.8px;"><b>Pet Products</b></h2>
   </div>
 
   <div class="container mx-auto max-w-2xl md:py-12 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
@@ -27,7 +27,7 @@
   <div id="sectioncolour">
     <br>
   <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-        <h2 id="producttittle" class="producttittle"><b>Pet Foods </b> </h2>
+        <h2 id="producttittle" class="producttittle">Pet Foods</h2>
   </div>
 
   <div class="container mx-auto max-w-2xl md:py-12 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
@@ -52,7 +52,7 @@
 
     <br>
   <div class="section-header text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-        <h2 id="producttittle" class="producttittle"><b>Pets</b> </h2>
+        <h2 id="producttittle" class="producttittle producttittlePet">Pets</h2>
   </div>
 
   <div class="container mx-auto max-w-2xl md:py-12 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
@@ -144,9 +144,15 @@ import petsMain from '../assets/json/pets.json'
 }
 
 .producttittle{
-  font-size: 50px;
+  font-size: 45.8px;
   margin-top: 0px;
+  font-weight: bold;
 }
+
+.producttittlePet{
+  margin-top: -34px;
+}
+
 
 .rounded1{
     background: white;

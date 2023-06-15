@@ -72,6 +72,8 @@ h3, .h3 {
     font-size: calc(1.3rem + 0.6vw);
     text-align: center;
     font-family: emoji;
+    font-size: 45.8px;
+    font-weight: bold;
 }
 
 #containertop{

@@ -1,7 +1,7 @@
 <template>
     <div id="backcolour">
 
-        <h1 style="text-align:center; margin-top: 30px;font-size: 45.8px;margin-bottom: 37px;">Premium Pet Service</h1>
+        <h1 style="text-align:center; margin-top: 30px;font-size: 45.8px;margin-bottom: 37px; font-weight: bold;">Premium Pet Service</h1>
 
               <div class="card-container">
                 <div class="card">

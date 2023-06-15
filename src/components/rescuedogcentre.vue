@@ -91,8 +91,9 @@
   }
   
   .producttittle{
-    font-size: 50px;
+    font-size: 45.8px;
     margin-top: 0px;
+    font-weight: bold;
   }
   
   .rounded1{
