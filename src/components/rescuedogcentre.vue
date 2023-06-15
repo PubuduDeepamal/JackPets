@@ -3,8 +3,8 @@
     <div id="bcolour">
     <br>
     <div class="section-header text-center mx-auto mb-5 wow fadeInUp"  data-wow-delay="0.1s" style="max-width: 500px;">
-          <h2 id="producttittle" class="producttittle">Rescue Dog Centre</h2>
-          <p>(Do you want to raise these orphans? You can request these pets.)</p>
+          <h2 id="producttittle" class="producttittle">Sherlock Rescue Dog Centre</h2>
+          <p>(Do you want to raise these orphaned pets? You can request.)</p>
     </div>
     <div class="container mx-auto max-w-2xl md:py-12 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
       <div class="row row-cols-1 gap-4 gap-lg-5">
