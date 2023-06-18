@@ -29,7 +29,7 @@
                 </div>
               </div>
         </div>
-    </div>
+    </div>  
 
     </div>
 </template>
@@ -52,7 +52,6 @@ export default {
      async mounted()
      {
         let result = await axios.get("https://reqres.in/api/users?page=1");
-        // console.warn(result.data.data)
         this.list = result.data.data
      }
 };
